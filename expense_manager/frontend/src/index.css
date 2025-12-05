@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-clifford: #da373d;
+}
+
+body {
+  background-color: #0f172a;
+  /* Dark background */
+  color: #f8fafc;
+  /* Light text */
+}
