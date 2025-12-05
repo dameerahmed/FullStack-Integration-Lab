@@ -22,3 +22,4 @@ uni_db.close()
 
 for x in data:
     print(x)
+    print(x)
